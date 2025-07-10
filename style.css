@@ -2,3 +2,49 @@
     margin: 0;
     padding: 0;
 }
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 250px 0px 110px;
+    align-items: center;
+}
+nav h2{
+    font-size: 34px;
+    font-weight: bold;
+    color: #3831fb;
+}
+.btn-type{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    background-color: #4E47FF;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+header{
+    background-image: url(../Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 100vh;
+    background-position: center;
+}
+.banner-text{
+    /* text-align: center;
+    margin-top: 200px; */
+    display: block;
+    justify-content: center;
+    margin-top: 200px;
+    text-align: center;
+}
+.banner-text h3{
+    font-size: 45px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 20px;
+}
