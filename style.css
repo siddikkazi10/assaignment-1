@@ -199,7 +199,7 @@ body {
     }
 
     /* contact section start  */
-    /* .contact-parent{
+    .contact-parent{
         display: flex;
         justify-content: center;
         align-items: center;
@@ -221,9 +221,9 @@ body {
         border: none;
         padding: 10px 12px;
         margin: 10px 0;
-    } */
+    }
 
-    /* footer section start 
+    /* /* footer section start  */
     footer{
         text-align: center;
         padding: 50px 0;
@@ -253,4 +253,4 @@ body {
         margin: 0px 15px;
         color: gray;
 
-    } */
+    } 
